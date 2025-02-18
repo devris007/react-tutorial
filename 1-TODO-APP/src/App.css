@@ -1,0 +1,9 @@
+.todo-row {
+  margin: 10px 5px;
+  width: 100%;
+}
+
+.todo-btn {
+   min-width: 100px;
+   float: right;
+}
